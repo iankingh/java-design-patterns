@@ -1,4 +1,4 @@
-# StudyDesignPatternInJava
+# java-design-patterns
 
 A small Java workspace intended for studying design patterns.
 
